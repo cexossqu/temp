@@ -1,0 +1,2 @@
+# .config
+archlinux configuration
